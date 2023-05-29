@@ -8,10 +8,10 @@ _Olá, sou desenvolvedor de jogos e ferramentas utilizando a ferramenta Unity 3D
 ## Tecnologias
 <div style="display: inline_clock border:2">
 <br/>
-    <a href="https://unity.com/pt"><img align="center" alt="Unity 3D" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /></a>
-    <a href="https://www.gimp.org/"><img align="center" alt="Gimp" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" /></a>
-    <a href="https://www.audacityteam.org/download/"><img align="center" alt="Gimp" src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white" /></a>
-    <a href="https://www.blender.org/"><img align="center" alt="Gimp" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /></a>
+    <a href="https://unity.com/pt" target="_blank"><img align="center" alt="Unity 3D" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /></a>
+    <a href="https://www.gimp.org/" target="_blank"><img align="center" alt="Gimp" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" /></a>
+    <a href="https://www.audacityteam.org/download/" target="_blank"><img align="center" alt="Gimp" src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white" /></a>
+    <a href="https://www.blender.org/" target="_blank"><img align="center" alt="Gimp" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /></a>
 </div>
 
 
