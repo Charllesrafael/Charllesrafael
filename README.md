@@ -22,7 +22,7 @@ _Olá, sou desenvolvedor de jogos e ferramentas utilizando a ferramenta Unity 3D
 ## Links 
 
 [![Unity](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fwww.charllesrafael.com.br%2F)](https://www.charllesrafael.com.br/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlles-rafael-14b12b34/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlles-rafael/)
 [![Canal](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=GOHdOihGmmg&list=PL1Gh11RJovwSpZlisbD7iw_SyQmDEvNSY&ab_channel=CharCharTup)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://charllesrafael.itch.io/)
 
