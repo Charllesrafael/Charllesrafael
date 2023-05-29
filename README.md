@@ -5,7 +5,7 @@
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://charllesrafael.itch.io/)
 
 
-[![Charlles Rafael  GitHub stats](https://github-readme-stats.vercel.app/api?username=Charllesrafael&theme=radical)](https://github.com/Charllesrafael/github-readme-stats)
+[![Charlles Rafael  GitHub stats](https://github-readme-stats.vercel.app/api?username=Charllesrafael&theme=tokyonight)](https://github.com/Charllesrafael/github-readme-stats)
 
 
 ## Tecnologia que tenho conhecimento
