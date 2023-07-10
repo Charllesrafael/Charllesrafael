@@ -2,7 +2,7 @@
 
 <img align="center" alt="Unity 3D" src="https://media.licdn.com/dms/image/D4D16AQFhQdmRXHTMuQ/profile-displaybackgroundimage-shrink_350_1400/0/1685374071492?e=1691020800&v=beta&t=JEH4nV9ciZk62EVUGXQIX1-nYs9WPbNRQul7OeqD-X8" />
 
-_Olá, sou desenvolvedor de jogos e ferramentas utilizando a ferramenta Unity 3D._
+_Hello, I'm a developer of games and tools using the Unity 3D tool._
 
 
 ## Technologies
@@ -16,9 +16,6 @@ _Olá, sou desenvolvedor de jogos e ferramentas utilizando a ferramenta Unity 3D
 
 
 </br>
-
-[![Charlles Rafael  GitHub stats](https://github-readme-stats.vercel.app/api?username=Charllesrafael&theme=tokyonight)](https://github.com/Charllesrafael)
-
 ## Links 
 
 [![Unity](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fwww.charllesrafael.com.br%2F)](https://www.charllesrafael.com.br/)
