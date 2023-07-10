@@ -5,7 +5,7 @@
 _Olá, sou desenvolvedor de jogos e ferramentas utilizando a ferramenta Unity 3D._
 
 
-## Tecnologias
+## Technologies
 <div style="display: inline_clock border:2">
 <br/>
     <a href="https://unity.com/pt" target="_blank"><img align="center" alt="Unity 3D" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /></a>
